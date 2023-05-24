@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/mSoukKXyD9guJCRLtX/giphy-downsized-large.gif" alt="drawing" width="1000" 
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/CbtWqS5PeU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CbtWqS5PeU" height="30" width="40" /></a>

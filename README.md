@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/6c/a0/9a/6ca09add293f268287f20e5b9fcd8edc.gif" alt="drawing" width="1000" height="218" />
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/CbtWqS5PeU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CbtWqS5PeU" height="30" width="40" /></a>
+<a href="https://discord.gg/DT4UBrqdYr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CbtWqS5PeU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
